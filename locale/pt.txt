@@ -1,0 +1,30 @@
+#: locale=pt
+
+## Media
+
+### Audio
+audiores_7738EE7D_63D5_CB3C_41C5_1158CFC505FA.url = media/audio_70433F35_63AA_CACD_41D3_2ADCEB78AA67_pt.mp3
+audiores_773097B2_63D5_D9C4_41D0_B09C8D6B5D40.url = media/audio_715D0A96_63AA_4BCF_41D4_498EEECC0307_pt.mp3
+audiores_7728E70B_63D5_DAC4_41D4_9DC814EFC6B3.url = media/audio_7190C376_63AA_794C_41B7_C6C1322FDB47_pt.mp3
+audiores_773DE2E4_63D5_FB4C_41D3_30DF30EC889B.url = media/audio_771E2163_63AA_5944_41D3_DA3CCB8E0FEE_pt.mp3
+
+### Audio Subtitles
+
+### Title
+panorama_6CD1B37E_63AD_B93C_41D3_1A3BBEAE6F2B.label = Igrejinha do Quadrado -  Igreja de São João Batista
+
+## Skin
+
+### Image
+Image_719480CC_63AF_B759_41B2_2D705E1540AA_mobile.url = skin/Image_719480CC_63AF_B759_41B2_2D705E1540AA_mobile_pt.png
+Image_719480CC_63AF_B759_41B2_2D705E1540AA.url = skin/Image_719480CC_63AF_B759_41B2_2D705E1540AA_pt.png
+Image_7303C9EB_63AE_C944_41CF_1FBFEB31F567_mobile.url = skin/Image_7303C9EB_63AE_C944_41CF_1FBFEB31F567_mobile_pt.png
+Image_7303C9EB_63AE_C944_41CF_1FBFEB31F567.url = skin/Image_7303C9EB_63AE_C944_41CF_1FBFEB31F567_pt.png
+
+## Tour
+
+### Description
+tour.description = Igreja São João Batista (“Igrejinha do Quadrado”)
+
+### Title
+tour.name = Igreja São João Batista (“Igrejinha do Quadrado”)
